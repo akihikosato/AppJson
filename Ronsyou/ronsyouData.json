@@ -1,3 +1,14 @@
 {
-"version" : 1.1
+    "version" : 1.0,
+    "textVersion" : 1.0,
+    "enablePurchase" : "true",
+    "textData" : {
+        "kenpou" : {
+            "Sample0" : "sample_text0",
+            "Sample1" : "sample_text1",
+            "Sample2" : "sample_text2",
+            "Sample3" : "sample_text3",
+            "Sample4" : "sample_text4"
+        }
+    }
 }

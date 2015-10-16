@@ -4,11 +4,11 @@
     "enablePurchase" : "true",
     "textData" : {
         "kenpou" : {
-            "Sample0" : "sample_text0",
-            "Sample1" : "sample_text1",
-            "Sample2" : "sample_text2",
-            "Sample3" : "sample_text3",
-            "Sample4" : "sample_text4"
+            "0_Sample" : "sample_text0",
+            "1_Sample" : "sample_text1",
+            "2_Sample" : "sample_text2",
+            "3_Sample" : "sample_text3",
+            "4_Sample" : "sample_text4"
         }
     }
 }

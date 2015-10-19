@@ -2,7 +2,7 @@
     "version" : "1.0",
     "textVersion" : "1.0",
     "enablePurchase" : "true",
-    "priceMsg" : "全100種類の論証が掲載された完全版を240円でに購入しますか？",
+    "priceMsg" : "全100種類の論証が掲載された完全版を240円で購入しますか？",
     "historyData" : [
     "10-30 ver1.0をリリース"
     ],
@@ -17,7 +17,7 @@
             "6_Sample" : "kenpou_text6",
             "7_Sample" : "kenpou_text7",
             "8_Sample" : "kenpou_text8",
-            "9_Sample" : "kenpou_text9",
+            "9_Sample" : "kenpou_text9"
         },
         "minpou" : {
             "0_minpou" : "minpou_text0",
@@ -29,7 +29,7 @@
             "6_minpou" : "minpou_text6",
             "7_minpou" : "minpou_text7",
             "8_minpou" : "minpou_text8",
-            "9_minpou" : "minpou_text9",
+            "9_minpou" : "minpou_text9"
         },
         "keihou" : {
             "0_keihou" : "keihou_text0",
@@ -41,7 +41,7 @@
             "6_keihou" : "keihou_text6",
             "7_keihou" : "keihou_text7",
             "8_keihou" : "keihou_text8",
-            "9_keihou" : "keihou_text9",
+            "9_keihou" : "keihou_text9"
         },
         "keiso" : {
             "0_keiso" : "keiso_text0",
@@ -53,7 +53,7 @@
             "6_keiso" : "keiso_text6",
             "7_keiso" : "keiso_text7",
             "8_keiso" : "keiso_text8",
-            "9_keiso" : "keiso_text9",
+            "9_keiso" : "keiso_text9"
         },
         "minso" : {
             "0_minso" : "minso_text0",
@@ -65,7 +65,7 @@
             "6_minso" : "minso_text6",
             "7_minso" : "minso_text7",
             "8_minso" : "minso_text8",
-            "9_minso" : "minso_text9",
+            "9_minso" : "minso_text9"
         },
         "syouhou" : {
             "0_syouhou" : "syouhou_text0",
@@ -77,7 +77,7 @@
             "6_syouhou" : "syouhou_text6",
             "7_syouhou" : "syouhou_text7",
             "8_syouhou" : "syouhou_text8",
-            "9_syouhou" : "syouhou_text9",
+            "9_syouhou" : "syouhou_text9"
         },
         "gyouseihou" : {
             "0_gyouseihou" : "gyouseihou_text0",
@@ -89,7 +89,7 @@
             "6_gyouseihou" : "gyouseihou_text6",
             "7_gyouseihou" : "gyouseihou_text7",
             "8_gyouseihou" : "gyouseihou_text8",
-            "9_gyouseihou" : "gyouseihou_text9",
+            "9_gyouseihou" : "gyouseihou_text9"
         }
     }
 }

@@ -1,6 +1,6 @@
 {
     "version" : "1.0",
-    "textVersion" : "1.0.2",
+    "textVersion" : "1.0.0",
     "enablePurchase" : "true",
     "formUrl" : "http://goo.gl/forms/JGbf1VfnKm",
     "thanksAlert" : "合格論証集をダウンロードして頂きありがとうございます。\n無料版では各科目10の論証をご覧いただけます。\nすべての論証をご覧頂く場合は、完全版をご購入下さい。",

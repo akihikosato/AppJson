@@ -1,0 +1,12 @@
+{
+	"ronsyou_ios" : {
+		"version" : "1.0.3",
+    	"inReview" : "true",
+    	"storeUrl" : "https://itunes.apple.com/jp/app/heakatarogu/id1050538518?mt=8"
+	},
+	"ronsyou_android" : {
+		"version"     : "1.0.0",
+    	"inReview" : "false",
+    	"storeUrl" : ""
+	}
+}

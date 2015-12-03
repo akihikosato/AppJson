@@ -1,6 +1,6 @@
 {
     "version" : "1.0.3",
-    "textVersion" : "0.0.27",
+    "textVersion" : "0.0.7",
     "enablePurchase" : "true",
     "inReview" : "false",
     "formUrl" : "http://goo.gl/forms/JGbf1VfnKm",

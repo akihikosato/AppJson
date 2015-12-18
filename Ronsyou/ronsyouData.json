@@ -2,7 +2,7 @@
     "version" : "1.0.4",
     "textVersion" : "0.0.8",
     "enablePurchase" : "true",
-    "inReview" : "true",
+    "inReview" : "false",
     "formUrl" : "http://goo.gl/forms/JGbf1VfnKm",
     "thanksAlert" : "合格論証集をダウンロードして頂きありがとうございます。\n無料版では各科目10の論証をご覧いただけます。",
     "storeUrl" : "https://itunes.apple.com/jp/app/heakatarogu/id1050538518?mt=8",

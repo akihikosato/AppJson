@@ -4,11 +4,13 @@
     	"inReview" : "false",
     	"storeUrl" : "https://itunes.apple.com/jp/app/heakatarogu/id1050538518?mt=8"
 	},
-	"ronsyou_android" : {
-		"versionCode" : 1,
+	"Android" : {
+		"versionCode" : "1",
 		"version"     : "1.0.0",
 		"textVersion" : "0.0.11",
     	"inReview" : "false",
-    	"storeUrl" : ""
+    	"storeUrl" : "",
+    	"row" : "row",
+    	"privacy" : "privacy"
 	}
 }

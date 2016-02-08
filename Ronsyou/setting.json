@@ -8,9 +8,15 @@
 		"versionCode" : "1",
 		"version"     : "1.0.0",
 		"textVersion" : "0.0.11",
-    	"inReview" : "false",
     	"storeUrl" : "",
     	"row" : "row",
-    	"privacy" : "privacy"
+  		"formUrl" : "http://goo.gl/forms/JGbf1VfnKm",
+    	"thanksAlert" : "合格論証集をダウンロードして頂きありがとうございます。\n無料版では各科目10の論証をご覧いただけます。",
+    	"storeUrl" : "https://itunes.apple.com/jp/app/heakatarogu/id1050538518?mt=8",
+    	"priceMsg" : "全200種類の論証が掲載されたアップグレード版を480円で購入しますか？",
+    	"priceMsgs" : ["全200種類の論証が掲載されたアップグレード版を480円で購入しますか？", "憲法・行政法の論証が掲載されたアップグレード版を240円で購入しますか？", "民事系の論証が掲載されたアップグレード版を240円で購入しますか？", "刑事系の論証が掲載されたアップグレード版を240円で購入しますか？"],
+    	"historyData" : ["3/3 ver1.0.1をリリース", "3/2 論証を追加", "3/1 ver1.0.1をリリース"],
+    	"privacy" : "privacy",
+    	"inReview" : "false"
 	}
 }

@@ -4,7 +4,7 @@
     	"inReview" : "true"
     	}, 
     "iOS": {
-    	"version" : "1.1.0",
-    	"inReview" : "false"
+    	"version" : "1.0.1",
+    	"inReview" : "true"
     }
 }

@@ -1,0 +1,11 @@
+{
+	"uuid" : "D7D92893-F7F9-4785-B07C-458857B90F3A",
+	"iOS" : {
+		"version" : "1.0",
+		"inReview" : "false"
+	},
+	"android" : {
+		"version" : "1.0",
+		"inReview" : "false"
+	}
+}
